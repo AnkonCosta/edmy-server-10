@@ -1,22 +1,296 @@
-{
-    "_id": "01",
-    "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
+[
+    {
+        "_id": "01",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "topics_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_sell": 488,
+        "title": "Html Basic",
+        "seller": {
+            "name": "Eric Henry",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://img.freepik.com/free-photo/online-web-design_53876-95309.jpg?size=626&ext=jpg&ga=GA1.2.800180060.1661101819&semt=sph",
+        "details": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript."
     },
-    "topics_id": "01",
-    "rating": {
-        "number": 4.5,
-        "badge": "Excellent"
+    {
+        "_id": "02",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "topics_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_sell": 488,
+        "title": "Html Advance",
+        "author": {
+            "name": "Jelensky Scooper",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://as1.ftcdn.net/v2/jpg/00/49/04/86/1000_F_49048695_YIZLk6q2kaetITZ4ik5hmE73ZOyJrsGG.jpg",
+        "details": "HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and final major HTML version that is a World Wide Web Consortium recommendation. The current specification is known as the HTML Living Standard."
     },
-    "total_sell": 488,
-    "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-    "author": {
-        "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    {
+        "_id": "03",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "topics_id": "02",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_sell": 598,
+        "title": "CSS",
+        "author": {
+            "name": "Erling Haul",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.2.800180060.1661101819&semt=sph",
+        "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
     },
-    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
-}
+    {
+        "_id": "04",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "topics_id": "02",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_sell": 598,
+        "title": "CSS Animation",
+        "author": {
+            "name": "Erling Paul",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://img.freepik.com/free-vector/frontend-development-concept-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-2357.jpg?size=626&ext=jpg&ga=GA1.2.800180060.1661101819&semt=sph",
+        "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
+    },
+    {
+        "_id": "05",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "topics_id": "03",
+        "rating": {
+            "number": 5.00,
+            "badge": "Excellent"
+        },
+        "total_sell": 598,
+        "title": "Python For Beginner",
+        "author": {
+            "name": "Erling Paul",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHl0aG9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming."
+    },
+    {
+        "_id": "06",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "topics_id": "03",
+        "rating": {
+            "number": 5.00,
+            "badge": "Excellent"
+        },
+        "total_sell": 598,
+        "title": "Django",
+        "author": {
+            "name": "Erling Paul",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://images.unsplash.com/photo-1580121441575-41bcb5c6b47c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHB5dGhvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "details": "Django is a free and open-source, Python-based web framework that follows the model–template–views architectural pattern. It is maintained by the Django Software Foundation, an independent organization established in the US as a 501 non-profit."
+    },
+    {
+        "_id": "07",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "topics_id": "04",
+        "rating": {
+            "number": 5.00,
+            "badge": "Excellent"
+        },
+        "total_sell": 598,
+        "title": "Cyber Security",
+        "author": {
+            "name": "Erling Paul",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y3liZXIlMjBzZWN1cml0eXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "details": "Computer security, cybersecurity, or information technology security is the protection of computer systems and networks from information disclosure, theft of, or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide."
+    },
+    {
+        "_id": "08",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "topics_id": "04",
+        "rating": {
+            "number": 5.00,
+            "badge": "Excellent"
+        },
+        "total_sell": 598,
+        "title": "Cyber Security",
+        "author": {
+            "name": "Erling Paul",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://images.unsplash.com/photo-1563206767-5b18f218e8de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aGFja2luZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "details": "Certified Ethical Hacker is a qualification given by EC-Council and obtained by demonstrating knowledge of assessing the security of computer systems by looking for weaknesses and vulnerabilities."
+    },
+    {
+        "_id": "09",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "topics_id": "05",
+        "rating": {
+            "number": 5.00,
+            "badge": "Excellent"
+        },
+        "total_sell": 598,
+        "title": "MongoDB",
+        "author": {
+            "name": "Erling Paul",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://images.unsplash.com/photo-1658204238967-3a81a063d162?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bW9uZ29kYnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "details": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License which is deemed non-free by several distributions."
+    },
+    {
+        "_id": "10",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "topics_id": "05",
+        "rating": {
+            "number": 5.00,
+            "badge": "Excellent"
+        },
+        "total_sell": 598,
+        "title": "MySql",
+        "author": {
+            "name": "Erling Paul",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://images.unsplash.com/photo-1662026911591-335639b11db6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bXlzcWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "details": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License which is deemed non-free by several distributions."
+    },
+    {
+        "_id": "11",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "topics_id": "06",
+        "rating": {
+            "number": 5.00,
+            "badge": "Excellent"
+        },
+        "total_sell": 598,
+        "title": "WordPress Customization",
+        "author": {
+            "name": "Elen Paul",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://images.unsplash.com/photo-1616469832301-ffaeadc68cf3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d29yZHByZXNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "details": "WordPress is a free and open-source content management system written in hypertext preprocessor language and paired with a MySQL or MariaDB database with supported HTTPS. Features include a plugin architecture and a template system, referred to within WordPress as themes"
+    },
+    {
+        "_id": "12",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "topics_id": "06",
+        "rating": {
+            "number": 5.00,
+            "badge": "Excellent"
+        },
+        "total_sell": 598,
+        "title": "Elementor Pro",
+        "author": {
+            "name": "Elen Paul",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://images.unsplash.com/photo-1560472354-0088b5dc9d8d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8d29yZHByZXNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "details": "Elementor Pro is an extension of Elementor, which empowers you with vast professional tools that speed up your workflow and design. Elementor Pro main points are: Theme Builder lets you customize every part of your theme. Visually design forms and integrate them seamlessly."
+    },
+    {
+        "_id": "13",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "topics_id": "06",
+        "rating": {
+            "number": 5.00,
+            "badge": "Excellent"
+        },
+        "total_sell": 598,
+        "title": "Theme Development",
+        "author": {
+            "name": "Elen Paul",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8d29yZHByZXNzJTIwdGhlbWV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "details": "WordPress is a free and open-source content management system written in hypertext preprocessor language and paired with a MySQL or MariaDB database with supported HTTPS. Features include a plugin architecture and a template system, referred to within WordPress as themes"
+    },
+    {
+        "_id": "14",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "topics_id": "06",
+        "rating": {
+            "number": 5.00,
+            "badge": "Excellent"
+        },
+        "total_sell": 598,
+        "title": "Plugin Development",
+        "author": {
+            "name": "Roberto Paul",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://images.unsplash.com/photo-1554098415-788601c80aef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGx1Z2lucyUyMHdvcmRwcmV3c3N8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "details": "WordPress is a free and open-source content management system written in hypertext preprocessor language and paired with a MySQL or MariaDB database with supported HTTPS. Features include a plugin architecture and a template system, referred to within WordPress as themes"
+    }
+]

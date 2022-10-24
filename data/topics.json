@@ -13,22 +13,14 @@
     },
     {
         "id": "04",
-        "name": "C++"
-    },
-    {
-        "id": "05",
-        "name": "MongoDB"
-    },
-    {
-        "id": "06",
-        "name": "WordPress"
-    },
-    {
-        "id": "07",
         "name": "Ethical Hacking"
     },
     {
-        "id": "08",
-        "name": "Syber Security"
+        "id": "05",
+        "name": "Database"
+    },
+    {
+        "id": "06",
+        "name": "Content Management System"
     }
 ]

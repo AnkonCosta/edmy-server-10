@@ -1,6 +1,17 @@
 const express = require('express');
 const app = express();
-const port = 5000;
+const cors = require('cors');
+const port = process.env.PORT || 5000;
+app.use(cors());
+
+const topics = require('./data/topics.json');
+const courses = require('./data/courses.json');
+
+
+
+app.get('/courses', (req, res) => {
+    res.send(courses);
+})
 
 
 
