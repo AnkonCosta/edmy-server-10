@@ -11,6 +11,22 @@ const courses = require('./data/courses.json');
 
 app.get('/courses', (req, res) => {
     res.send(courses);
+});
+
+app.get('/topics', (req, res) => {
+    res.send(topics)
+});
+
+app.get('/courses/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCourse = courses.find(c => c._id == id)
+    res.send(selectedCourse)
+});
+
+app.get('/topics/:id', (req, res) => {
+    const id = req.params.id;
+    const courseTopics = courses.filter(c => c.topics_id == id);
+    res.send(courseTopics)
 })
 
 
