@@ -11,6 +11,7 @@
             "badge": "Excellent"
         },
         "total_sell": 488,
+        "price": "55$",
         "title": "Html Basic",
         "seller": {
             "name": "Eric Henry",
@@ -32,6 +33,7 @@
             "badge": "Excellent"
         },
         "total_sell": 488,
+        "price": "85$",
         "title": "Html Advance",
         "author": {
             "name": "Jelensky Scooper",
@@ -53,6 +55,7 @@
             "badge": "Excellent"
         },
         "total_sell": 598,
+        "price": "45$",
         "title": "CSS",
         "author": {
             "name": "Erling Haul",
@@ -74,6 +77,7 @@
             "badge": "Excellent"
         },
         "total_sell": 598,
+        "price": "60$",
         "title": "CSS Animation",
         "author": {
             "name": "Erling Paul",
@@ -95,6 +99,7 @@
             "badge": "Excellent"
         },
         "total_sell": 598,
+        "price": "85$",
         "title": "Python For Beginner",
         "author": {
             "name": "Erling Paul",
@@ -116,6 +121,7 @@
             "badge": "Excellent"
         },
         "total_sell": 598,
+        "price": "25$",
         "title": "Django",
         "author": {
             "name": "Erling Paul",
@@ -137,6 +143,7 @@
             "badge": "Excellent"
         },
         "total_sell": 598,
+        "price": "155$",
         "title": "Cyber Security",
         "author": {
             "name": "Erling Paul",
@@ -158,6 +165,7 @@
             "badge": "Excellent"
         },
         "total_sell": 598,
+        "price": "105$",
         "title": "Cyber Security",
         "author": {
             "name": "Erling Paul",
@@ -179,6 +187,7 @@
             "badge": "Excellent"
         },
         "total_sell": 598,
+        "price": "55$",
         "title": "MongoDB",
         "author": {
             "name": "Erling Paul",
@@ -200,6 +209,7 @@
             "badge": "Excellent"
         },
         "total_sell": 598,
+        "price": "55$",
         "title": "MySql",
         "author": {
             "name": "Erling Paul",
@@ -221,6 +231,7 @@
             "badge": "Excellent"
         },
         "total_sell": 598,
+        "price": "55$",
         "title": "WordPress Customization",
         "author": {
             "name": "Elen Paul",
@@ -242,6 +253,7 @@
             "badge": "Excellent"
         },
         "total_sell": 598,
+        "price": "55$",
         "title": "Elementor Pro",
         "author": {
             "name": "Elen Paul",
@@ -263,6 +275,7 @@
             "badge": "Excellent"
         },
         "total_sell": 598,
+        "price": "55$",
         "title": "Theme Development",
         "author": {
             "name": "Elen Paul",
@@ -284,6 +297,7 @@
             "badge": "Excellent"
         },
         "total_sell": 598,
+        "price": "55$",
         "title": "Plugin Development",
         "author": {
             "name": "Roberto Paul",
